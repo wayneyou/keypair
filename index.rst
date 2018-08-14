@@ -11,19 +11,22 @@ Contents:
 .. toctree::
    :maxdepth: 2
       
-   Overview
-   Terminology
-   Schematic Diagram
-   Generating Private Keys
-   Generating Public Keys
-   Generating Addresses
-   Signing Transactions
-   Methods of Submitting Transactions/Generating Transaction_blobs by Calling the Interface
-   Methods of Submitting Transactions/Generating Transaction_blobs by Yourself
-   ProtoBuf Data Structure/Data Structure
-   ProtoBuf Data Structure/Examples
-   Examples for Transaction Submission/Generating Transaction_blobs by Interface
-   Examples for Transaction Submission/Generating Transaction_blobs by Yourself
+   README
+   SUMMARY
+   examples-for-transaction-submission
+   generating-addresses
+   generating-private-key
+   generating-public-keys
+   methods-of-submitting-transactions
+   protobuf-data-structure
+   schematic-diagram
+   signing-transactions
+   examples-for-transaction-submission/generating-transaction-blobs-by-the-interface
+   examples-for-transaction-submission/generating-transactionblobs-by-yourself
+   methods-of-submitting-transactions/generating-transaction-blobs-by-calling-the-interface
+   methods-of-submitting-transactions/generating-transactionblobs-by-yourself
+   protobuf-data-structure/data-structure
+   protobuf-data-structure/examples
     
    
    
