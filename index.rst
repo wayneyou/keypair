@@ -12,8 +12,21 @@ Contents:
    :maxdepth: 2
    
    
-   docs/manual
-   docs/generating-private-key
+   Overview
+   Terminology
+   Schematic Diagram
+   Generating Private Keys
+   Generating Public Keys
+   Generating Addresses
+   Signing Transactions
+   Methods of Submitting Transactions/Generating Transaction_blobs by Calling the Interface
+   Methods of Submitting Transactions/Generating Transaction_blobs by Yourself
+   ProtoBuf Data Structure/Data Structure
+   ProtoBuf Data Structure/Examples
+   Examples for Transaction Submission/Generating Transaction_blobs by Interface
+   Examples for Transaction Submission/Generating Transaction_blobs by Yourself
+    
+   
    
 
 Indices and tables
