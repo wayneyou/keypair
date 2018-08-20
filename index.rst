@@ -13,6 +13,8 @@ Contents:
       
    docs/keypair
    docs/keypairone
+   docs/API_Guide_for_Exchangesnew
+   
     
    
    
