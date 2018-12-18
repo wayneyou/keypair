@@ -2,15 +2,6 @@ Bumo Go SDK
 ===========
 
 
-
------  -----  ------
- time   to     go
-=====  =====  ======
-False  False  False
-True   False  True
-=====  =====  ======
-
-
 概述
 ----
 
